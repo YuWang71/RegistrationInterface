@@ -1,3 +1,4 @@
+<?php include('server.php') ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +27,7 @@
 			<input type="password" name="password_1">
 		</div>
 		<div class="input-group">
-			<label>Confirm Password</label>
+			<label>Confirm password</label>
 			<input type="password" name="password_2">
 		</div>
 		<div class="input-group">
